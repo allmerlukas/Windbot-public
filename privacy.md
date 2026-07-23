@@ -6,7 +6,7 @@ This policy explains what data Wind Bot collects, why it collects it, and how it
 
 ## 1. Who We Are
 
-Wind Bot ("the Bot", "we", "our") is a Discord bot providing a partner Auto-Wave ad exchange, partner statistics, and the DonutSMP Spawner Shop (a ticket-based system for buying and selling in-game Minecraft spawners), along with related server tools. The Bot is operated by its developer ("Developer"). For contact information, see Section 10.
+Wind Bot ("the Bot", "we", "our") is a Discord bot providing a partner Auto-Wave ad exchange, partner statistics, and the DonutSMP Spawner Shop (a ticket-based system for buying and selling in-game Minecraft spawners), along with related server tools. The Spawner Shop is available only inside one specific, official server operated by the Developer, so all shop and ticket data is collected from that single server and adding Wind Bot to another server does not enable the shop there. The Bot is operated by its developer ("Developer"). For contact information, see Section 10.
 
 ## 2. Data We Collect
 

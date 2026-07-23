@@ -14,7 +14,7 @@ Wind Bot is a Discord bot providing the following features:
 
 - **Auto-Wave Partner System:** automated exchange of server advertisements between participating Discord servers.
 - **Partner Link Tracking:** recording and displaying server partnership statistics.
-- **DonutSMP Spawner Shop:** a ticket-based system for buying and selling in-game Minecraft spawners on the DonutSMP server, including stock tracking, staff payouts, sales statistics, a priority queue, and staff applications.
+- **DonutSMP Spawner Shop:** a ticket-based system for buying and selling in-game Minecraft spawners on the DonutSMP server, including stock tracking, staff payouts, sales statistics, a priority queue, and staff applications. This feature is available only inside one specific, official server operated by the Developer. It is not enabled in any other server that adds Wind Bot, and adding the bot to your own server does not provide the Spawner Shop.
 - **Ticket System:** private buy, sell, and support ticket channels, with saved transcripts.
 - **Server Utilities:** configuration, announcements, polls, roles, and related tools.
 
@@ -57,7 +57,7 @@ The Auto-Wave system automatically exchanges server advertisements between serve
 
 ## 7. Spawner Shop and Trading
 
-The Spawner Shop lets users buy and sell in-game Minecraft spawners on the DonutSMP server through ticket channels. All payments are made in-game using DonutSMP's in-game currency between players. By using the Spawner Shop, you acknowledge and agree that:
+The Spawner Shop lets users buy and sell in-game Minecraft spawners on the DonutSMP server through ticket channels. It is provided only inside one specific, official server designated by the Developer; it is not part of the bot's functionality in any other server and will not be extended to other servers where Wind Bot is added. All payments are made in-game using DonutSMP's in-game currency between players. By using the Spawner Shop, you acknowledge and agree that:
 
 - Wind Bot is only a facilitation and record-keeping tool. It does not process, hold, or transfer any currency or items. All in-game payments and spawner deliveries happen directly between players in-game.
 - Trades are made at your own risk. You are responsible for verifying the other party and confirming delivery before considering a trade complete.

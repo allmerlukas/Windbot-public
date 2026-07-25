@@ -1,6 +1,6 @@
 # Privacy Policy — Wind Bot
 
-_Last updated: July 23, 2026_
+_Last updated: July 25, 2026_
 
 This policy explains what data Wind Bot collects, why it collects it, and how it is stored and protected. Wind Bot does not sell, rent, or share your data with any third party for advertising or commercial purposes.
 
@@ -19,6 +19,7 @@ Wind Bot only collects data that is necessary to provide its features:
 - **Partner URLs:** server invite links, used for partner link tracking and deduplication.
 - **Shop transaction data:** spawner type, quantity, price, and buyer, seller, and staff IDs, used for orders, stock, sales statistics, staff payouts, and leaderboards.
 - **Ticket transcripts:** messages sent inside a shop or support ticket, kept as a record of an order for dispute resolution.
+- **Server member counts:** a server's member count at the time it receives a partner ad, and again roughly 24 hours later, used to measure whether receiving a given partner's ad is associated with real growth. This is aggregate, server-level data (member counts are already publicly visible on Discord); it does not identify or track any individual member.
 
 Wind Bot does not read general chat across your server. It reads message content only in the specific ad channel you configure via `/config setup`, and inside shop and support ticket channels (which are saved as a transcript when the ticket closes).
 
@@ -31,6 +32,7 @@ All data collection is tied to a specific bot feature:
 - **Partner URLs:** to deduplicate partner links and provide partnership statistics.
 - **Shop transaction data:** to track stock, calculate what staff are owed, produce sales statistics and leaderboards, and reverse orders that are cancelled.
 - **Ticket transcripts:** to keep a record of each order or support request in case of a dispute.
+- **Server member counts:** to measure and improve Auto-Wave partner matching over time, favoring partners that are associated with real server growth.
 
 ## 4. Data Storage and Security
 
@@ -48,6 +50,7 @@ Your data is used only to operate Wind Bot's features. It is never sold or share
 - **Tickets:** the ticket channel is deleted when closed; a text transcript of shop and support tickets is retained for dispute resolution.
 - **Shop records:** stock, sales, and payout records are retained to keep the shop's books accurate. Pending staff-payment entries are cleared once settled.
 - **Partner links:** daily records are pruned after 30 days automatically.
+- **Ad performance records:** member-count snapshots tied to a specific ad delivery, retained to keep partner-matching statistics accurate.
 - **Error logs:** a rolling window of the most recent errors; older entries are deleted automatically.
 
 ## 6. Third Parties

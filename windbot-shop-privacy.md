@@ -1,5 +1,7 @@
 # Privacy Policy — DonutSMP Spawner Shop (Wind Bot)
 
+> **Note regarding platform compliance:** The features described here (the Spawner Shop and its minigame giveaways) are a custom system operated inside a single Discord server, using DonutSMP in-game currency only, with no real-world money involved. If Discord, or any platform on which this is reviewed, does not accept this custom feature, please contact the developer (see Section 11) and the developer will promptly remove these features and, if required, delete the server.
+
 _Last updated: July 27, 2026_
 
 This policy explains what data the **DonutSMP Spawner Shop** and its **minigame giveaways** collect, why, and how it is stored and protected. These features are part of Wind Bot but run only inside one specific, official Discord server operated by the Developer; adding Wind Bot to another server does not enable them. The rest of Wind Bot (the Auto-Wave partner system and partner statistics) is covered by a separate Privacy Policy.

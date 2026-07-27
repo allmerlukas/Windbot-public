@@ -2,7 +2,7 @@
 
 _Last updated: July 27, 2026_
 
-By adding Wind Bot to your server or using its commands, you agree to the following terms. These apply to all users, including server administrators, staff, and community members. The DonutSMP Spawner Shop and its minigame giveaways are a separate, single-server feature governed by their own Terms of Service — see `shop-terms.md`.
+By adding Wind Bot to your server or using its commands, you agree to the following terms. These apply to all users, including server administrators, staff, and community members. The DonutSMP Spawner Shop and its minigame giveaways are a separate, single-server feature governed by their own Terms of Service — see `windbot-shop-terms.md`.
 
 ## 1. Acceptance of Terms
 
@@ -16,7 +16,7 @@ Wind Bot is a Discord bot providing the following features:
 - **Partner Link Tracking:** recording and displaying server partnership statistics and leaderboards.
 - **Server Utilities:** configuration, announcements, polls, roles, and related tools.
 
-The DonutSMP Spawner Shop, its ticket system, and the minigame giveaways are a separate, single-server feature governed by a separate Terms of Service (`shop-terms.md`); they are not provided in any other server that adds Wind Bot.
+The DonutSMP Spawner Shop, its ticket system, and the minigame giveaways are a separate, single-server feature governed by a separate Terms of Service (`windbot-shop-terms.md`); they are not provided in any other server that adds Wind Bot.
 
 ## 3. Eligibility
 

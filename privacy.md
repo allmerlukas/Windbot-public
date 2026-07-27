@@ -6,7 +6,7 @@ This policy explains what data Wind Bot collects, why it collects it, and how it
 
 ## 1. Who We Are
 
-Wind Bot ("the Bot", "we", "our") is a Discord bot providing a partner Auto-Wave ad exchange, partner statistics and leaderboards, and related server tools. **This policy covers those features.** The DonutSMP Spawner Shop and its minigame giveaways are a separate, single-server feature with their own Privacy Policy — see `shop-privacy.md`. The Bot is operated by its developer ("Developer"). For contact information, see Section 10.
+Wind Bot ("the Bot", "we", "our") is a Discord bot providing a partner Auto-Wave ad exchange, partner statistics and leaderboards, and related server tools. **This policy covers those features.** The DonutSMP Spawner Shop and its minigame giveaways are a separate, single-server feature with their own Privacy Policy — see `windbot-shop-privacy.md`. The Bot is operated by its developer ("Developer"). For contact information, see Section 10.
 
 ## 2. Data We Collect
 

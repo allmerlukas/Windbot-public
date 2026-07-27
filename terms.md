@@ -2,7 +2,7 @@
 
 _Last updated: July 27, 2026_
 
-By adding Wind Bot to your server or using its commands, you agree to the following terms. These apply to all users, including server administrators, staff, and community members who use the Spawner Shop.
+By adding Wind Bot to your server or using its commands, you agree to the following terms. These apply to all users, including server administrators, staff, and community members. The DonutSMP Spawner Shop and its minigame giveaways are a separate, single-server feature governed by their own Terms of Service — see `shop-terms.md`.
 
 ## 1. Acceptance of Terms
 
@@ -13,11 +13,10 @@ By adding Wind Bot to a Discord server or using any of its commands or features,
 Wind Bot is a Discord bot providing the following features:
 
 - **Auto-Wave Partner System:** automated exchange of server advertisements between participating Discord servers.
-- **Partner Link Tracking:** recording and displaying server partnership statistics.
-- **DonutSMP Spawner Shop:** a ticket-based system for buying and selling in-game Minecraft spawners on the DonutSMP server, including stock tracking, staff payouts, sales statistics, a priority queue, and staff applications. This feature is available only inside one specific, official server operated by the Developer. It is not enabled in any other server that adds Wind Bot, and adding the bot to your own server does not provide the Spawner Shop.
-- **Minigame Giveaways:** sponsor-funded, in-game giveaways (themed raffles and skill games) with prize payouts, sponsor tiers and roles, cosmetic perks, and leaderboards. Like the Spawner Shop, this feature is available only inside that same single, official server and is not provided in any other server that adds Wind Bot.
-- **Ticket System:** private buy, sell, and support ticket channels, with saved transcripts.
+- **Partner Link Tracking:** recording and displaying server partnership statistics and leaderboards.
 - **Server Utilities:** configuration, announcements, polls, roles, and related tools.
+
+The DonutSMP Spawner Shop, its ticket system, and the minigame giveaways are a separate, single-server feature governed by a separate Terms of Service (`shop-terms.md`); they are not provided in any other server that adds Wind Bot.
 
 ## 3. Eligibility
 
@@ -26,11 +25,10 @@ You must meet all of the following to use Wind Bot:
 - Be at least 13 years old, as required by Discord's Terms of Service.
 - Have a valid Discord account in good standing.
 - Comply with Discord's Terms of Service and Community Guidelines at all times.
-- When using the Spawner Shop, also comply with the rules of the DonutSMP Minecraft server.
 
 ## 4. Acceptable Use
 
-You may use Wind Bot only for its intended purposes and in a manner consistent with these Terms. Server administrators who add Wind Bot are responsible for ensuring that their community members use the bot appropriately. You are permitted to use Wind Bot's features to manage and grow your community and to trade spawners through the Spawner Shop, provided you follow these Terms, Discord's policies, and DonutSMP's rules.
+You may use Wind Bot only for its intended purposes and in a manner consistent with these Terms. Server administrators who add Wind Bot are responsible for ensuring that their community members use the bot appropriately. You are permitted to use Wind Bot's features to manage and grow your community, provided you follow these Terms and Discord's policies.
 
 ## 5. Prohibited Conduct
 
@@ -40,13 +38,11 @@ You must not use Wind Bot to:
 - Distribute illegal content, malware, phishing links, or scam material.
 - Attempt to exploit, reverse-engineer, or interfere with the bot's operation.
 - Use the Auto-Wave system to send misleading, harmful, or inappropriate advertisements.
-- Abuse the partner tracking, shop, giveaway, or sponsorship systems to artificially inflate statistics, stock, sales, payouts, giveaway entries, sponsorship totals, or leaderboards.
-- Link an in-game name that is not yours, or provide false information, to obtain a prize, payout, or refund.
-- Scam, defraud, or fail to deliver on a trade agreed through the Spawner Shop.
-- Violate any applicable laws, regulations, or the rules of the DonutSMP server.
+- Abuse the partner tracking system to artificially inflate statistics or leaderboards.
+- Violate any applicable laws or regulations.
 - Impersonate the bot developer, staff, or claim official status you do not have.
 
-Violations of these rules may result in your server or account being permanently banned from using Wind Bot and the Spawner Shop.
+Violations of these rules may result in your server or account being permanently banned from using Wind Bot.
 
 ## 6. Auto-Wave Partner System
 
@@ -57,62 +53,32 @@ The Auto-Wave system automatically exchanges server advertisements between serve
 - Your ad content must comply with Discord's Community Guidelines and these Terms. Content that is NSFW, promotes harmful communities, or violates Discord's policies is strictly prohibited.
 - The Developer reserves the right to remove any server from the Auto-Wave network at any time for any reason, including policy violations.
 
-## 7. Spawner Shop and Trading
+## 7. Not Affiliated / Third Parties
 
-The Spawner Shop lets users buy and sell in-game Minecraft spawners on the DonutSMP server through ticket channels. It is provided only inside one specific, official server designated by the Developer; it is not part of the bot's functionality in any other server and will not be extended to other servers where Wind Bot is added. All payments are made in-game using DonutSMP's in-game currency between players. By using the Spawner Shop, you acknowledge and agree that:
+Wind Bot is an independent project. It is not affiliated with, endorsed by, or sponsored by Discord Inc., Mojang Studios, or Microsoft. "Minecraft" is a trademark of Mojang Studios; "Discord" is a trademark of Discord Inc. These names are used only to describe compatibility and function.
 
-- Wind Bot is only a facilitation and record-keeping tool. It does not process, hold, or transfer any currency or items. All in-game payments and spawner deliveries happen directly between players in-game.
-- Trades are made at your own risk. You are responsible for verifying the other party and confirming delivery before considering a trade complete.
-- The Developer and shop staff are not liable for any loss of in-game currency or items, scams, or failed trades, including account penalties imposed by DonutSMP or Mojang.
-- Prices, stock, and availability may change at any time without notice.
-- Refunds, if any, are handled at the sole discretion of shop staff on a case-by-case basis and are not guaranteed.
-- You must comply with the DonutSMP server's own rules on trading.
-- To open an order you must first link your in-game name with `/link`. Where automated payment verification is enabled, the Bot confirms your in-game payment on a **best-effort** basis by reading publicly-available stats from a third-party site (see Section 9); it may not always detect a valid payment (for example due to stats delays or the site being unavailable), in which case staff verify it manually from your payment screenshot. You should keep a screenshot showing the time and date of your payment.
-
-Wind Bot does not guarantee the outcome of any trade. All trading is in-game only; no real-world money is involved.
-
-## 8. Minigame Giveaways and Sponsorship
-
-Wind Bot offers sponsor-funded minigame giveaways inside the same single, official server as the Spawner Shop. A user ("Sponsor") funds a prize in in-game currency, the Bot posts a giveaway (a themed raffle or a skill game), and a winner receives the prize. By hosting, entering, or sponsoring a giveaway, you acknowledge and agree that:
-
-- **In-game currency only.** All giveaway prizes, sponsorships, and payouts use DonutSMP's in-game currency. No real-world money is involved, and giveaways may not be used for real-money gambling of any kind.
-- **Manual payouts.** The Bot does not hold or transfer currency. Prizes and refunds are paid manually, in-game, by shop staff or the Developer. You must have a linked in-game name (`/link`) to receive a prize; providing a false in-game name forfeits any prize or refund.
-- **Best-effort verification.** Sponsorship payments are verified on a best-effort basis using a third-party stats site (see Section 9). The Bot may fail to detect a valid payment; in that case the matter is resolved manually by staff, and you should keep a screenshot of your payment showing the time and date.
-- **Refunds.** If a giveaway ends with no eligible entrants, the Sponsor is refunded. Otherwise, sponsorships are non-refundable once the giveaway has run. Any other refunds are at the sole discretion of staff and are not guaranteed.
-- **Winner selection.** Raffle winners are chosen at random from the eligible entrants; skill-game winners are the first to complete the challenge. The Developer and staff are not liable for the outcome of any giveaway.
-- **Sponsor tiers and perks.** Sponsor tiers, thresholds, roles, cosmetic perks, and the available minigames are provided as-is and may be changed, added, or removed at any time without notice.
-- **Fair play.** Staff may void, re-run, or withhold payout on any giveaway affected by abuse, exploits, or attempts to manipulate entries, sponsorships, or leaderboards.
-
-## 9. Not Affiliated / Third Parties
-
-Wind Bot is an independent project. It is not affiliated with, endorsed by, or sponsored by Discord Inc., Mojang Studios, Microsoft, the DonutSMP Minecraft server, or donutstats.net. "Minecraft" is a trademark of Mojang Studios; "Discord" is a trademark of Discord Inc. These names are used only to describe compatibility and function.
-
-To verify in-game payments and validate in-game names, the Bot reads publicly-available player stat pages from **donutstats.net**, an independent, unofficial third-party stats website that we do not operate or control. Its own terms and availability apply to those requests, and the Bot relies on it only on a best-effort basis.
-
-## 10. Service Availability
+## 8. Service Availability
 
 Wind Bot is provided on an "as is" and "as available" basis. We do not guarantee uninterrupted or error-free operation, that any specific feature will remain available in future versions, or a specific uptime percentage or response time. We reserve the right to modify, suspend, or discontinue any feature of the bot at any time without prior notice.
 
-## 11. Limitation of Liability
+## 9. Limitation of Liability
 
 To the fullest extent permitted by law, the Developer shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of or inability to use Wind Bot, including but not limited to:
 
-- Loss of data, in-game currency, or items.
-- Losses, scams, or disputes arising from trades made through the Spawner Shop.
-- Losses or disputes arising from minigame giveaways or sponsorships, including undetected payments and giveaway outcomes.
+- Loss of data.
 - Damage caused by advertisements posted through the Auto-Wave system.
-- Service interruptions or bot downtime, including outages of any third-party service the Bot relies on.
+- Service interruptions or bot downtime.
 
-You use Wind Bot, the Spawner Shop, and the giveaway system at your own risk.
+You use Wind Bot at your own risk.
 
-## 12. Termination
+## 10. Termination
 
-The Developer may, at their sole discretion, terminate or restrict your access to Wind Bot, the Spawner Shop, or the giveaway system at any time for any reason, including violation of these Terms. You may stop using the bot at any time by removing it from your server. Upon termination, the provisions that by their nature should survive (including Sections 7, 8, 9, 11, and this Section 12) will survive.
+The Developer may, at their sole discretion, terminate or restrict your access to Wind Bot at any time for any reason, including violation of these Terms. You may stop using the bot at any time by removing it from your server. Upon termination, the provisions that by their nature should survive (including Sections 7, 9, and this Section 10) will survive.
 
-## 13. Changes to These Terms
+## 11. Changes to These Terms
 
 We reserve the right to update these Terms at any time. When we do, we will update the "Last updated" date at the top of this page. Your continued use of Wind Bot after any changes constitutes your acceptance of the new Terms.
 
-## 14. Contact
+## 12. Contact
 
 If you have any questions about these Terms or wish to report a violation, contact the bot developer on Discord: https://discord.com/users/1493273832432210042
